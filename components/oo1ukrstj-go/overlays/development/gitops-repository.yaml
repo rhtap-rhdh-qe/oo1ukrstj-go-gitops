@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oo1ukrstj-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oo1ukrstj-go-gitops
